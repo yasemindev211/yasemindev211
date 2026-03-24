@@ -24,6 +24,9 @@
 💬 Ask me about: Python, Java, SQL
 - 📫My Email: yaseminbulat16@gmail.com
 
+- Connect with me:
+- [LinkedIn](https://linkedin.com/in/yasemin-bulat)
+
 ## İstatistiklerim
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=yasemindev211&show_icons=true)
