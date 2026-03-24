@@ -1,10 +1,18 @@
-# Merhaba, ben Yasemin 👋
+                                                       Hi 👋, I'm Yasemin
 
-Ben yazılım ve donanım konularında öğrenmeye ve projeler geliştirmeye hevesli bir geliştiriciyim.  
+                                                       
+![image.png](attachment:f5a4d455-a7a7-4e00-9e26-d915db39acab:image.png) 
 
-- 🌱 Hâlen BTK kursu ve kişisel projelerle kendimi geliştiriyorum.  
-- 💻 Donanım ve işletim sistemi raporları GitHub’da mevcut.  
-- 📫 Bana ulaşmak için: [GitHub](https://github.com/yasemindev211)  
+![image.png](attachment:d7e75baa-9009-4957-8519-187a0a4d8090:image.png)
+
+![image.png](attachment:88b7a979-bcba-4c2c-9de8-c79836a62080:image.png)
+
+🌱 I’m currently learning Java
+
+👨‍💻 All of my projects are available at here  https://www.notion.so/Yasemin-Bulat-Projects-Portfolio-30e8b0b095e580848251d59df5d06ed0?pvs=13
+
+💬 Ask me about: Python, Java, SQL
+- 📫My Email: yaseminbulat16@gmail.com
 
 ## İstatistiklerim
 
