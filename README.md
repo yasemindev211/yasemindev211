@@ -1,18 +1,18 @@
                                                        Hi 👋, I'm Yasemin
                                                        
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7a21b63d-9d32-42d0-b274-63061db3c71c" width="300"/>
-  <img src="https://github.com/user-attachments/assets/87367f32-c425-4026-bfff-8b014b13737b" width="300"/>
+  <img src="https://github.com/user-attachments/assets/7a21b63d-9d32-42d0-b274-63061db3c71c" width="150"/>
+  <img src="https://github.com/user-attachments/assets/87367f32-c425-4026-bfff-8b014b13737b" width="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/12355372-de39-4738-9359-1155c1afe7e9" width="300"/>
-  <img src="https://github.com/user-attachments/assets/e6acc8b2-0d7c-4f73-96e6-1110fc56f9bb" width="300"/>
+  <img src="https://github.com/user-attachments/assets/12355372-de39-4738-9359-1155c1afe7e9" width="150"/>
+  <img src="https://github.com/user-attachments/assets/e6acc8b2-0d7c-4f73-96e6-1110fc56f9bb" width="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/61f78ec5-12ef-4294-972e-77ad09e93913" width="300"/>
-  <img src="https://github.com/user-attachments/assets/f4bab25d-458e-4715-b140-347f8b7bda32" width="300"/>
+  <img src="https://github.com/user-attachments/assets/61f78ec5-12ef-4294-972e-77ad09e93913" width="150"/>
+  <img src="https://github.com/user-attachments/assets/f4bab25d-458e-4715-b140-347f8b7bda32" width="150"/>
 </p>
    
  
