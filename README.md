@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning Java
 
-👨‍💻 All of my projects are available at here  https://www.notion.so/Yasemin-Bulat-Projects-Portfolio-30e8b0b095e580848251d59df5d06ed0?pvs=13
+👨‍💻 All of my projects are available at here
 
 💬 Ask me about: Python, Java, SQL
 - 📫My Email: yaseminbulat16@gmail.com
