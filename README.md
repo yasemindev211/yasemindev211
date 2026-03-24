@@ -24,8 +24,8 @@
 💬 Ask me about: Python, Java, SQL
 - 📫My Email: yaseminbulat16@gmail.com
 
-- Connect with me:
-- [LinkedIn](https://linkedin.com/in/yasemin-bulat)
+- Connect with me: [LinkedIn](https://linkedin.com/in/yasemin-bulat)
+
 
 ## İstatistiklerim
 
